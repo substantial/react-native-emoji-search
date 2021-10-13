@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "emoji-search",
+    "slug": "emoji-search",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "emoji-search"
+}
