@@ -47,7 +47,6 @@ const IMAGE_SIZE = 32
 const BORDER_COLOR = '#ccc'
 const BORDER_WIDTH = 1
 
-
 const styles = StyleSheet.create({
   container: {
     borderTopColor: BORDER_COLOR,
